@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\2\volley_559846e5c431283d16e7b8dfc7f247f0c45d2591\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d59f9eefdc91d064aec1a7a5d42a007c2c3f6478">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_622413b1610f0f3f2c0aa539a2f1b3774b705b3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_473a54918d15feab201bda033d39a53756764a5f\classes.dex" />
+    </item>
+
+</items>

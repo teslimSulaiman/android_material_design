@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:1:1-49:12
+	package
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:2:5-36
+	android:versionName
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:11:5-47:19
+MERGED from [com.android.support:support-v13:25.0.0] C:\Users\USER\.android\build-cache\3f854456cf54b20936f7514df3fb39df8f661d95\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:palette-v7:25.0.0] C:\Users\USER\.android\build-cache\c11452e75e546fea911420c3e23ac79b219314a0\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\USER\.android\build-cache\302b5031a5363cbfdd93009c6bea5933a7129d0a\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:25.0.0] C:\Users\USER\.android\build-cache\dd9b91c8a9d5a09ed25c57a3ba491765af7ac33d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\USER\.android\build-cache\c65cc416bb0e4d30f1adb4b07b90a6d0043c0caf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\USER\.android\build-cache\4ef8f3c5182e365ef67e655d511941a9d1510452\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\USER\.android\build-cache\763635d233546f16f835e2da764c807671aa16af\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.0] C:\Users\USER\.android\build-cache\6d703f949250e363096fad094dce85469920a05b\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\USER\.android\build-cache\ac1e518620d84a8ca6318260918434cec79d0c64\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\USER\.android\build-cache\55189baaca8e009b7d8c90034ac7a412ce0b3a9d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\USER\.android\build-cache\80a6f9ceb13649ce13098a849d4d91df979b023b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\USER\.android\build-cache\a9a85b10e03c51a934bbdc80ec4cfe5553602f7f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\USER\.android\build-cache\f80cfcad2e5140622a57b0369ae86c1d4f4feb6c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\USER\.android\build-cache\e18432c9c39f7efc3df5ff3cadd9b62280c14d1a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.android\build-cache\0dab873bd39d920259675765264e237d21c2b52c\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:15:9-35
+	android:allowBackup
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:16:9-43
+activity#com.example.xyzreader.ui.ArticleListActivity
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:18:9-25:20
+	android:label
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:19:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:21:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:23:27-74
+activity#com.example.xyzreader.ui.ArticleDetailActivity
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:27:9-38:20
+	android:parentActivityName
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:29:13-65
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:28:13-53
+intent-filter#android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:30:13-34:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:32:27-73
+data
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:33:17-100
+	android:mimeType
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:33:23-97
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:35:13-37:59
+	android:value
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:37:17-56
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:36:17-63
+service#com.example.xyzreader.data.UpdaterService
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:40:9-41:40
+	android:exported
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:40:18-53
+provider#com.example.xyzreader.data.ItemsProvider
+ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:43:9-45:40
+	android:authorities
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:44:13-56
+	android:exported
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml:43:19-53
+uses-sdk
+INJECTED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.0.0] C:\Users\USER\.android\build-cache\3f854456cf54b20936f7514df3fb39df8f661d95\output\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:palette-v7:25.0.0] C:\Users\USER\.android\build-cache\c11452e75e546fea911420c3e23ac79b219314a0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.0] C:\Users\USER\.android\build-cache\302b5031a5363cbfdd93009c6bea5933a7129d0a\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:25.0.0] C:\Users\USER\.android\build-cache\dd9b91c8a9d5a09ed25c57a3ba491765af7ac33d\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\USER\.android\build-cache\c65cc416bb0e4d30f1adb4b07b90a6d0043c0caf\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\USER\.android\build-cache\4ef8f3c5182e365ef67e655d511941a9d1510452\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\USER\.android\build-cache\763635d233546f16f835e2da764c807671aa16af\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\USER\.android\build-cache\a26988d9e724fca5422668a35a06d4d4c21eebf0\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.0] C:\Users\USER\.android\build-cache\6d703f949250e363096fad094dce85469920a05b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\USER\.android\build-cache\ac1e518620d84a8ca6318260918434cec79d0c64\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\USER\.android\build-cache\55189baaca8e009b7d8c90034ac7a412ce0b3a9d\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\USER\.android\build-cache\80a6f9ceb13649ce13098a849d4d91df979b023b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\USER\.android\build-cache\a9a85b10e03c51a934bbdc80ec4cfe5553602f7f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\USER\.android\build-cache\f80cfcad2e5140622a57b0369ae86c1d4f4feb6c\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\USER\.android\build-cache\e18432c9c39f7efc3df5ff3cadd9b62280c14d1a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.android\build-cache\0dab873bd39d920259675765264e237d21c2b52c\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.0.0] C:\Users\USER\.android\build-cache\3f854456cf54b20936f7514df3fb39df8f661d95\output\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\AndroidStudioProjects\xyzreader (1)\XYZReader\src\main\AndroidManifest.xml
